@@ -11,3 +11,6 @@ apache/rocketmq:4.9.5
 apache/rocketmq:5.2.0
 apacherocketmq/rocketmq-dashboard:latest
 styletang/rocketmq-console-ng:latest
+foxiswho/rocketmq:server
+foxiswho/rocketmq:broker
+styletang/rocketmq-console-ng
