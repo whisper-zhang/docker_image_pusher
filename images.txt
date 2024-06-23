@@ -14,3 +14,4 @@ styletang/rocketmq-console-ng:latest
 foxiswho/rocketmq:server
 foxiswho/rocketmq:broker
 styletang/rocketmq-console-ng
+foxiswho/rocketmq:4.8.0
