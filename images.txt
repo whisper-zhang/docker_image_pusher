@@ -15,3 +15,5 @@ foxiswho/rocketmq:server
 foxiswho/rocketmq:broker
 styletang/rocketmq-console-ng
 foxiswho/rocketmq:4.8.0
+postgres:15.7
+postgres:16.3
