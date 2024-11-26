@@ -17,3 +17,4 @@ styletang/rocketmq-console-ng
 foxiswho/rocketmq:4.8.0
 postgres:15.7
 postgres:16.3
+openjdk:11.0.5
