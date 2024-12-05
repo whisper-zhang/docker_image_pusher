@@ -18,3 +18,6 @@ foxiswho/rocketmq:4.8.0
 postgres:15.7
 postgres:16.3
 openjdk:11.0.5
+postgresql:17
+eclipse-temurin:21-jre
+bladex/alpine-java:openjdk17_cn_slim
