@@ -19,3 +19,5 @@ postgres:15.7
 postgres:16.3
 openjdk:11.0.5
 postgresql:17
+apache/rocketmq:5.3.3
+apache/seata-server:2.4.0
