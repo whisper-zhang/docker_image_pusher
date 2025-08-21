@@ -21,3 +21,7 @@ openjdk:11.0.5
 postgresql:17
 apache/rocketmq:5.3.3
 apache/seata-server:2.3.0
+elasticsearch:9.1.1
+kibana:9.1.1
+logstash:9.1.1
+elastic/filebeat:9.1.1
