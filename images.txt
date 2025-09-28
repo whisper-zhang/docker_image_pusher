@@ -13,3 +13,6 @@ elasticsearch:8.13.0
 kibana:8.13.0
 logstash:8.13.0
 elastic/filebeat:8.13.0
+bitnami/etcd:latest
+tzfun/etcd-workbench:latest
+postgres:18.0
