@@ -16,6 +16,8 @@
 #bitnami/etcd:latest
 #tzfun/etcd-workbench:latest
 #postgres:18.0
-dyrnq/canal-adapter:1.1.8-jdk8
-canal/canal-admin:v1.1.8
-canal/canal-server:v1.1.8
+#dyrnq/canal-adapter:1.1.8-jdk8
+#canal/canal-admin:v1.1.8
+#canal/canal-server:v1.1.8
+provectuslabs/kafka-ui:latest
+bitnami/kafka:4.0.0
