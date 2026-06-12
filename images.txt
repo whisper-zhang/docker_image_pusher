@@ -21,4 +21,4 @@
 #canal/canal-server:v1.1.8
 #provectuslabs/kafka-ui:latest
 #bitnami/kafka:4.0.0
-apache/seata-server:2.6.0
+apache/seata-server:2.7.0
