@@ -19,5 +19,6 @@
 #dyrnq/canal-adapter:1.1.8-jdk8
 #canal/canal-admin:v1.1.8
 #canal/canal-server:v1.1.8
-provectuslabs/kafka-ui:latest
-bitnami/kafka:4.0.0
+#provectuslabs/kafka-ui:latest
+#bitnami/kafka:4.0.0
+apache/seata-server:2.6.0
